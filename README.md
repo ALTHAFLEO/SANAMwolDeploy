@@ -6,7 +6,7 @@
 
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=HI+welcome+to+SANAMwol+repo;Created+by+Fasil;This+is+a+normal+whatsapp+Bot+with+media+clips;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+SANAMwol+WA+Bot+repo;Created+by+Althaf+KA;This+is+the+Best++Bgm+bot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -96,3 +96,8 @@ Click WA logo to Join Support Group 👇
 <br>
   <a href="https://chat.whatsapp.com/KEZHh2SrjFl3QGhKuxsKvY" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
+
+  
+  <h3 align="center">Contact Me:</h3>
+<p align="center">
+<a href="https://www.instagram.com/p/CYBCPfGpiNg/?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
